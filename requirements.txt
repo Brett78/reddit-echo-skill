@@ -30,7 +30,7 @@ numpy==1.17.2
 opencv-python==4.1.1.26
 packaging==19.2
 parso==0.5.1
-Pillow==6.1.0
+Pillow==6.2.0
 pluggy==0.13.0
 poyo==0.5.0
 praw==6.4.0
