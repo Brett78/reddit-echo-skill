@@ -35,7 +35,7 @@ pluggy==0.13.0
 poyo==0.5.0
 praw==6.4.0
 prawcore==1.0.1
-py==1.8.0
+py==1.10.0
 pylint==2.4.2
 pyparsing==2.4.2
 pytest==5.2.0
